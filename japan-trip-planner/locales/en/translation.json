@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Japan Trip Planner",
+    "subtitle": "AI-Powered Itineraries · JR Pass Calculator · Seamless Transit"
+  },
+  "form": {
+    "dates": "Travel Dates",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "cities": "Cities to Visit",
+    "citiesPlaceholder": "Select cities (multiple)",
+    "budget": "Budget Level",
+    "budgetOptions": {
+      "budget": "Budget",
+      "moderate": "Moderate",
+      "luxury": "Luxury"
+    },
+    "pace": "Travel Pace",
+    "paceOptions": {
+      "relaxed": "Relaxed (2-3 spots/day)",
+      "moderate": "Moderate (4-5 spots/day)",
+      "intensive": "Intensive (6+ spots/day)"
+    },
+    "interests": "Interests",
+    "interestOptions": {
+      "temples": "Temples & Shrines",
+      "food": "Food",
+      "shopping": "Shopping",
+      "nature": "Nature",
+      "anime": "Anime & Manga",
+      "history": "History",
+      "onsen": "Hot Springs",
+      "nightlife": "Nightlife",
+      "photography": "Photography",
+      "family": "Family"
+    },
+    "generate": "Generate Itinerary",
+    "generating": "Planning your trip..."
+  },
+  "itinerary": {
+    "day": "Day {{number}}",
+    "transport": "Transport",
+    "duration": "{{minutes}} min",
+    "fare": "¥{{amount}}",
+    "jrPass": {
+      "title": "JR Pass Recommendation",
+      "recommended": "Recommended",
+      "notRecommended": "Not Recommended",
+      "savings": "Save ¥{{amount}}",
+      "passType": "Recommended Pass",
+      "individualCost": "Individual Tickets Total",
+      "passCost": "Pass Cost"
+    },
+    "showAddress": "Show Japanese Address",
+    "copyAddress": "Copy Address",
+    "copied": "Copied!",
+    "openMaps": "View on Google Maps",
+    "hours": "Hours",
+    "totalCost": "Estimated Total Cost",
+    "newTrip": "Plan New Trip",
+    "seasonalHighlights": "Seasonal Highlights",
+    "tips": "Tips",
+    "notCoveredByJR": "Not covered by JR Pass"
+  }
+}

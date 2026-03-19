@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "日本旅行规划师",
+    "subtitle": "智能生成行程 · JR Pass精算 · 交通无缝衔接"
+  },
+  "form": {
+    "dates": "旅行日期",
+    "startDate": "出发日期",
+    "endDate": "返回日期",
+    "cities": "想去的城市",
+    "citiesPlaceholder": "选择城市（可多选）",
+    "budget": "预算级别",
+    "budgetOptions": {
+      "budget": "经济型",
+      "moderate": "舒适型",
+      "luxury": "豪华型"
+    },
+    "pace": "行程节奏",
+    "paceOptions": {
+      "relaxed": "悠闲（每天2-3个景点）",
+      "moderate": "适中（每天4-5个景点）",
+      "intensive": "紧凑（每天6+个景点）"
+    },
+    "interests": "兴趣标签",
+    "interestOptions": {
+      "temples": "寺庙神社",
+      "food": "美食",
+      "shopping": "购物",
+      "nature": "自然风景",
+      "anime": "动漫",
+      "history": "历史",
+      "onsen": "温泉",
+      "nightlife": "夜生活",
+      "photography": "摄影",
+      "family": "亲子"
+    },
+    "generate": "生成行程",
+    "generating": "正在规划您的旅程..."
+  },
+  "itinerary": {
+    "day": "第{{number}}天",
+    "transport": "交通",
+    "duration": "{{minutes}}分钟",
+    "fare": "¥{{amount}}",
+    "jrPass": {
+      "title": "JR Pass 推荐",
+      "recommended": "推荐购买",
+      "notRecommended": "不推荐购买",
+      "savings": "预计节省 ¥{{amount}}",
+      "passType": "推荐类型",
+      "individualCost": "单独购票总费用",
+      "passCost": "通票费用"
+    },
+    "showAddress": "显示日文地址",
+    "copyAddress": "复制地址",
+    "copied": "已复制",
+    "openMaps": "在Google地图中查看",
+    "hours": "营业时间",
+    "totalCost": "预估总费用",
+    "newTrip": "规划新行程",
+    "seasonalHighlights": "季节亮点",
+    "tips": "旅行贴士",
+    "notCoveredByJR": "JR Pass 未覆盖线路"
+  }
+}
